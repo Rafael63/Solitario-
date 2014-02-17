@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1392634004 source:c:\users\sequeiros\documents\proyectos c++\solitario\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"Ordenamiento.h"
+
+1392451961 source:c:\users\sequeiros\documents\proyectos c++\solitario\listabarajas.cpp
+	"ListaBarajas.h"
+	<iostream>
+	"Carta.h"
+
+1392443014 c:\users\sequeiros\documents\proyectos c++\solitario\listabarajas.h
+	"NodoBaraja.h"
+	<iostream>
+	"Carta.h"
+
+1392441200 c:\users\sequeiros\documents\proyectos c++\solitario\nodobaraja.h
+	"Carta.h"
+	<iostream>
+	<string>
+
+1392441175 source:c:\users\sequeiros\documents\proyectos c++\solitario\nodobaraja.cpp
+	"NodoBaraja.h"
+
+1392448380 source:c:\users\sequeiros\documents\proyectos c++\solitario\carta.cpp
+	"Carta.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+
+1392440565 c:\users\sequeiros\documents\proyectos c++\solitario\carta.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<iostream>
+	<string>
+
+1391673528 source:c:\users\sequeiros\documents\proyectos c++\solitario\mazos.cpp
+	"Mazos.h"
+
+1391673977 c:\users\sequeiros\documents\proyectos c++\solitario\mazos.h
+	"ListaBarajas.h"
+
+1391700267 source:c:\users\sequeiros\documents\proyectos c++\solitario\ordenamiento.cpp
+	"Ordenamiento.h"
+
+1392204632 c:\users\sequeiros\documents\proyectos c++\solitario\ordenamiento.h
+	"ListaBarajas.h"
+	"Mazos.h"
+	<stdlib.h>
+	<time.h>
+
